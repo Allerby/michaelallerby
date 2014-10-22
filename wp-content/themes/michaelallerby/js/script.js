@@ -145,3 +145,50 @@ $(window).load(function() {
 	});
 
 });
+
+$(document).ready(function() {
+
+    $(window).on('resize ready scroll', function(){
+
+        h = $(window).height();
+        w = $(window).width();
+        s = $(window).scrollTop();
+
+		headerContent = $('.hero .container');
+		contentHeight = headerContent.height();
+
+        /*splashes*/
+        $('.hero').height(h);
+		// $('#team').height(h);
+
+		contentMargin = ((h - contentHeight)/2);
+		headerContent.css('padding-top', contentMargin)
+        // $('.splashFooter').height(h)
+        // $('.splashHeaderFooter').height(h - (headerHeight + footerHeight)).css('top',headerHeight + 'px')
+        // $('.splash').height(h)
+        // $('.splashHalf').height(h/2)
+        // $('.splashGolden').css('height', ((61.8*h) /100) + 'px' )
+
+         /*equal boxes*/
+        //    var maxheight = 0;
+        //     $('.service').each(function(){
+        //         if (maxheight < $(this).outerHeight()) {
+        //             maxheight = $(this).outerHeight();
+        //         }
+        //     });
+		//
+        //     $('.service').height(maxheight);
+
+    });
+
+
+    $('.scrollDown').click(function(){
+
+        var parentSectionId = $(this).parent('section').next().attr('id')
+        console.log(parentSectionId);
+        $('html, body').animate({scrollTop:$('#' + parentSectionId ).position().top}, 'slow');
+        return false;
+
+    });
+
+});

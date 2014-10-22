@@ -14,7 +14,7 @@
                   </div>
                 </div>
               </div>
-              <h2>Creative Minds</h2>
+              <h2>PORTFOLIO ITEM 1</h2>
               <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc ultricies nulla non metus pulvinar imperdiet. Praesent non adipiscing libero.</p>
             </div>
             <div class="col-md-4 wp4 delay-05s">
@@ -27,7 +27,7 @@
                   </div>
                 </div>
               </div>
-              <h2>Creative Hearts</h2>
+              <h2>PORTFOLIO ITEM 2</h2>
               <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc ultricies nulla non metus pulvinar imperdiet. Praesent non adipiscing libero.</p>
             </div>
             <div class="col-md-4 wp4 delay-1s">
@@ -40,7 +40,7 @@
                   </div>
                 </div>
               </div>
-              <h2>Creative Ideas</h2>
+              <h2>PORTFOLIO ITEM 3</h2>
               <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc ultricies nulla non metus pulvinar imperdiet. Praesent non adipiscing libero.</p>
             </div>
           </li>
@@ -55,7 +55,7 @@
                   </div>
                 </div>
               </div>
-              <h2>Creative Minds</h2>
+              <h2>PORTFOLIO ITEM 4</h2>
               <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc ultricies nulla non metus pulvinar imperdiet. Praesent non adipiscing libero.</p>
             </div>
             <div class="col-md-4 wp4 delay-05s">
@@ -68,7 +68,7 @@
                   </div>
                 </div>
               </div>
-              <h2>Creative Hearts</h2>
+              <h2>PORTFOLIO ITEM 5</h2>
               <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc ultricies nulla non metus pulvinar imperdiet. Praesent non adipiscing libero.</p>
             </div>
             <div class="col-md-4 wp4 delay-1s">
@@ -81,7 +81,7 @@
                   </div>
                 </div>
               </div>
-              <h2>Creative Ideas</h2>
+              <h2>PORTFOLIO ITEM 6</h2>
               <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc ultricies nulla non metus pulvinar imperdiet. Praesent non adipiscing libero.</p>
             </div>
           </li>

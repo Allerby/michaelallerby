@@ -6,7 +6,7 @@
             </div>
         </div>
         <div class="row">
-            <div class="col-md-8 col-md-offset-2 text-center inner">
+            <div class="col-md-8 col-md-offset-2 text-center">
                 <h1 class="animated fadeInDown">MICHAEL <span>ALLERBY</span></h1>
                 <p class="animated fadeInUp delay-05s"><em>Digital Developer</em></p>
             </div>

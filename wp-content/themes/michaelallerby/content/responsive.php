@@ -12,14 +12,14 @@
           <div id="servicesSlider">
             <ul class="slides">
               <li>
-                <h1 class="arrow">Responsive Design</h1>
+                <h1 class="arrow">Responsive Development</h1>
                 <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc ultricies nulla non metus pulvinar imperdiet. Praesent non adipiscing libero. </p>
                 <p>
                 Mauris ultrices odio vitae nulla ultrices iaculis. Nulla rhoncus odio eu lectus faucibus facilisis. Maecenas ornare augue vitae sollicitudin accumsan. </p>
                 <p>Etiam eget libero et erat eleifend consectetur a nec lectus. Sed id tellus lorem. Suspendisse sed venenatis odio, quis lobortis eros.</p>
               </li>
               <li>
-                <h1 class="arrow">Git</h1>
+                <h1 class="arrow">Jquery &amp; PHP</h1>
                 <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc ultricies nulla non metus pulvinar imperdiet. Praesent non adipiscing libero. </p>
                 <p>
                 Mauris ultrices odio vitae nulla ultrices iaculis. Nulla rhoncus odio eu lectus faucibus facilisis. Maecenas ornare augue vitae sollicitudin accumsan. </p>

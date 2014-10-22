@@ -2,7 +2,7 @@
   <div class="container">
     <div class="row">
       <div class="col-md-12">
-        <h1 class="arrow">We're a team that adore what we do</h1>
+        <h1 class="arrow">A passion for creativity and Development</h1>
       </div>
     </div>
     <div class="row">
@@ -10,9 +10,10 @@
         <div id="teamSlider">
           <ul class="slides">
             <li>
+            <div class="col-md-4 wp5"></div>
               <div class="col-md-4 wp5">
-                <img src="<?php echo $uri; ?>/img/team-01.png" alt="Team Member">
-                <h2>Jon Snow</h2>
+                <div class="portrait clearfix"></div>
+                <h2>Michael Allerby</h2>
                 <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc ultricies nulla non metus pulvinar imperdiet. Praesent non adipiscing libero.</p>
                 <div class="social">
                   <ul class="social-buttons">
@@ -22,69 +23,7 @@
                   </ul>
                 </div>
               </div>
-
-              <div class="col-md-4 wp5 delay-05s">
-                <img src="<?php echo $uri; ?>/img/team-02.png" alt="Team Member">
-                <h2>Cersei Lannister</h2>
-                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc ultricies nulla non metus pulvinar imperdiet. Praesent non adipiscing libero.</p>
-                <div class="social">
-                  <ul class="social-buttons">
-                    <li><a href="#" class="social-btn"><i class="fa fa-dribbble"></i></a></li>
-                    <li><a href="#" class="social-btn"><i class="fa fa-twitter"></i></a></li>
-                    <li><a href="#" class="social-btn"><i class="fa fa-envelope"></i></a></li>
-                  </ul>
-                </div>
-              </div>
-              <div class="col-md-4 wp5 delay-1s">
-                <img src="<?php echo $uri; ?>/img/team-03.png" alt="Team Member">
-                <h2>Jamie Lannister</h2>
-                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc ultricies nulla non metus pulvinar imperdiet. Praesent non adipiscing libero.</p>
-                <div class="social">
-                  <ul class="social-buttons">
-                    <li><a href="#" class="social-btn"><i class="fa fa-dribbble"></i></a></li>
-                    <li><a href="#" class="social-btn"><i class="fa fa-twitter"></i></a></li>
-                    <li><a href="#" class="social-btn"><i class="fa fa-envelope"></i></a></li>
-                  </ul>
-                </div>
-              </div>
-            </li>
-            <li>
-              <div class="col-md-4 wp5">
-                <img src="<?php echo $uri; ?>/img/team-01.png" alt="Team Member">
-                <h2>Jon Snow</h2>
-                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc ultricies nulla non metus pulvinar imperdiet. Praesent non adipiscing libero.</p>
-                <div class="social">
-                  <ul class="social-buttons">
-                    <li><a href="#" class="social-btn"><i class="fa fa-dribbble"></i></a></li>
-                    <li><a href="#" class="social-btn"><i class="fa fa-twitter"></i></a></li>
-                    <li><a href="#" class="social-btn"><i class="fa fa-envelope"></i></a></li>
-                  </ul>
-                </div>
-              </div>
-              <div class="col-md-4 wp5 delay-05s">
-                <img src="<?php echo $uri; ?>/img/team-02.png" alt="Team Member">
-                <h2>Cersei Lannister</h2>
-                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc ultricies nulla non metus pulvinar imperdiet. Praesent non adipiscing libero.</p>
-                <div class="social">
-                  <ul class="social-buttons">
-                    <li><a href="#" class="social-btn"><i class="fa fa-dribbble"></i></a></li>
-                    <li><a href="#" class="social-btn"><i class="fa fa-twitter"></i></a></li>
-                    <li><a href="#" class="social-btn"><i class="fa fa-envelope"></i></a></li>
-                  </ul>
-                </div>
-              </div>
-              <div class="col-md-4 wp5 delay-1s">
-                <img src="<?php echo $uri; ?>/img/team-03.png" alt="Team Member">
-                <h2>Jamie Lannister</h2>
-                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc ultricies nulla non metus pulvinar imperdiet. Praesent non adipiscing libero.</p>
-                <div class="social">
-                  <ul class="social-buttons">
-                    <li><a href="#" class="social-btn"><i class="fa fa-dribbble"></i></a></li>
-                    <li><a href="#" class="social-btn"><i class="fa fa-twitter"></i></a></li>
-                    <li><a href="#" class="social-btn"><i class="fa fa-envelope"></i></a></li>
-                  </ul>
-                </div>
-              </div>
+             <div class="col-md-4 wp5"></div>
             </li>
           </ul>
         </div>
