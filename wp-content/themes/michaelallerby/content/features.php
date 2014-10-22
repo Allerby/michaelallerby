@@ -6,25 +6,25 @@
         <div class="features-wrapper">
           <div class="col-md-4 wp2">
             <div class="icon">
-              <i class="fa fa-laptop shadow"></i>
+              <i class="fa ion-ios7-analytics shadow"></i>
             </div>
-            <h2>Digital Design</h2>
+            <h2>Data Analytics</h2>
             <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed a lorem quis neque interdum consequat ut sed sem. Duis quis tempor nunc. Interdum et malesuada fames ac ante ipsum
             primis in faucibus.</p>
           </div>
           <div class="col-md-4 wp2 delay-05s">
             <div class="icon">
-              <i class="fa fa-code shadow"></i>
+              <i class="fa ion-code-working shadow"></i>
             </div>
-            <h2>Web Development</h2>
+            <h2>Development</h2>
             <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed a lorem quis neque interdum consequat ut sed sem. Duis quis tempor nunc. Interdum et malesuada fames ac ante ipsum
             primis in faucibus.</p>
           </div>
           <div class="col-md-4 wp2 delay-1s">
             <div class="icon">
-              <i class="fa fa-heart shadow"></i>
+              <i class="fa ion-xbox shadow"></i>
             </div>
-            <h2>Creative Direction</h2>
+            <h2>Gaming</h2>
             <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed a lorem quis neque interdum consequat ut sed sem. Duis quis tempor nunc. Interdum et malesuada fames ac ante ipsum
             primis in faucibus.</p>
           </div>

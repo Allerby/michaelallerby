@@ -7,7 +7,7 @@
             <div class="col-md-4 wp4">
               <div class="overlay-effect effects clearfix">
                 <div class="img">
-                  <img src="img/portfolio-01.jpg" alt="Portfolio Item">
+                  <img src="<?php echo $uri; ?>/img/portfolio-01.jpg" alt="Portfolio Item">
                   <div class="overlay">
                     <a href="#" class="expand"><i class="fa fa-search"></i><br>View More</a>
                     <a class="close-overlay hidden">x</a>
@@ -20,7 +20,7 @@
             <div class="col-md-4 wp4 delay-05s">
               <div class="overlay-effect effects clearfix">
                 <div class="img">
-                  <img src="img/portfolio-02.jpg" alt="Portfolio Item">
+                  <img src="<?php echo $uri; ?>/img/portfolio-02.jpg" alt="Portfolio Item">
                   <div class="overlay">
                     <a href="#" class="expand"><i class="fa fa-search"></i><br>View More</a>
                     <a class="close-overlay hidden">x</a>
@@ -33,7 +33,7 @@
             <div class="col-md-4 wp4 delay-1s">
               <div class="overlay-effect effects clearfix">
                 <div class="img">
-                  <img src="img/portfolio-03.jpg" alt="Portfolio Item">
+                  <img src="<?php echo $uri; ?>/img/portfolio-03.jpg" alt="Portfolio Item">
                   <div class="overlay">
                     <a href="#" class="expand"><i class="fa fa-search"></i><br>View More</a>
                     <a class="close-overlay hidden">x</a>
@@ -48,7 +48,7 @@
             <div class="col-md-4 wp4">
               <div class="overlay-effect effects clearfix">
                 <div class="img">
-                  <img src="img/portfolio-01.jpg" alt="Portfolio Item">
+                  <img src="<?php echo $uri; ?>/img/portfolio-01.jpg" alt="Portfolio Item">
                   <div class="overlay">
                     <a href="#" class="expand"><i class="fa fa-search"></i><br>View More</a>
                     <a class="close-overlay hidden">x</a>
@@ -61,7 +61,7 @@
             <div class="col-md-4 wp4 delay-05s">
               <div class="overlay-effect effects clearfix">
                 <div class="img">
-                  <img src="img/portfolio-02.jpg" alt="Portfolio Item">
+                  <img src="<?php echo $uri; ?>/img/portfolio-02.jpg" alt="Portfolio Item">
                   <div class="overlay">
                     <a href="#" class="expand"><i class="fa fa-search"></i><br>View More</a>
                     <a class="close-overlay hidden">x</a>
@@ -74,7 +74,7 @@
             <div class="col-md-4 wp4 delay-1s">
               <div class="overlay-effect effects clearfix">
                 <div class="img">
-                  <img src="img/portfolio-03.jpg" alt="Portfolio Item">
+                  <img src="<?php echo $uri; ?>/img/portfolio-03.jpg" alt="Portfolio Item">
                   <div class="overlay">
                     <a href="#" class="expand"><i class="fa fa-search"></i><br>View More</a>
                     <a class="close-overlay hidden">x</a>

@@ -23,6 +23,7 @@
       }
       wp_head();
     ?>
+
   </head>
   <body id="top" <?php body_class(); ?>>
     <header id="home">

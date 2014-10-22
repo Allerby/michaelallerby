@@ -11,7 +11,7 @@
           <ul class="slides">
             <li>
               <div class="col-md-4 wp5">
-                <img src="img/team-01.png" alt="Team Member">
+                <img src="<?php echo $uri; ?>/img/team-01.png" alt="Team Member">
                 <h2>Jon Snow</h2>
                 <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc ultricies nulla non metus pulvinar imperdiet. Praesent non adipiscing libero.</p>
                 <div class="social">
@@ -24,7 +24,7 @@
               </div>
 
               <div class="col-md-4 wp5 delay-05s">
-                <img src="img/team-02.png" alt="Team Member">
+                <img src="<?php echo $uri; ?>/img/team-02.png" alt="Team Member">
                 <h2>Cersei Lannister</h2>
                 <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc ultricies nulla non metus pulvinar imperdiet. Praesent non adipiscing libero.</p>
                 <div class="social">
@@ -36,7 +36,7 @@
                 </div>
               </div>
               <div class="col-md-4 wp5 delay-1s">
-                <img src="img/team-03.png" alt="Team Member">
+                <img src="<?php echo $uri; ?>/img/team-03.png" alt="Team Member">
                 <h2>Jamie Lannister</h2>
                 <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc ultricies nulla non metus pulvinar imperdiet. Praesent non adipiscing libero.</p>
                 <div class="social">
@@ -50,7 +50,7 @@
             </li>
             <li>
               <div class="col-md-4 wp5">
-                <img src="img/team-01.png" alt="Team Member">
+                <img src="<?php echo $uri; ?>/img/team-01.png" alt="Team Member">
                 <h2>Jon Snow</h2>
                 <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc ultricies nulla non metus pulvinar imperdiet. Praesent non adipiscing libero.</p>
                 <div class="social">
@@ -62,7 +62,7 @@
                 </div>
               </div>
               <div class="col-md-4 wp5 delay-05s">
-                <img src="img/team-02.png" alt="Team Member">
+                <img src="<?php echo $uri; ?>/img/team-02.png" alt="Team Member">
                 <h2>Cersei Lannister</h2>
                 <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc ultricies nulla non metus pulvinar imperdiet. Praesent non adipiscing libero.</p>
                 <div class="social">
@@ -74,7 +74,7 @@
                 </div>
               </div>
               <div class="col-md-4 wp5 delay-1s">
-                <img src="img/team-03.png" alt="Team Member">
+                <img src="<?php echo $uri; ?>/img/team-03.png" alt="Team Member">
                 <h2>Jamie Lannister</h2>
                 <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc ultricies nulla non metus pulvinar imperdiet. Praesent non adipiscing libero.</p>
                 <div class="social">

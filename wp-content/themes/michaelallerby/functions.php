@@ -1,6 +1,10 @@
 <?php
 
+//Add Theme support for Post Thumbnails
 add_theme_support( 'post-thumbnails' );
+
+// Add Theme support for Post Formats
+add_theme_support( 'post-formats', array('gallery', 'link', 'image', 'quote', 'video'));
 
 function thref($extra = null) {
 	return get_stylesheet_directory_uri().$extra;
@@ -10,12 +14,12 @@ function michaelallerby_scripts() {
 	$url = get_template_directory_uri();
 
 	// Styles
-
-	wp_enqueue_style('style', $url . '/css/theme-styles.css');
+	wp_enqueue_style('style', $url . '/style.css');
 	wp_enqueue_style('animate-css', $url . '/css/animate.css');
 	wp_enqueue_style('flexslider', $url . '/css/flexslider.css');
 	wp_enqueue_style('bootstrap', $url . '/css/bootstrap.min.css');
 	wp_enqueue_style('queries', $url . '/css/queries.css');
+	wp_enqueue_style('ionicons', 'http://code.ionicframework.com/ionicons/1.5.2/css/ionicons.min.css');
 
 	// Javascript
 	wp_deregister_script('jquery');
@@ -39,7 +43,7 @@ function michaelallerby_scripts() {
 		);
 	wp_enqueue_script('custom', $url . '/js/script.js');
 
-	}
+}
 add_action('wp_enqueue_scripts', 'michaelallerby_scripts');
 
 function standard_page() {

@@ -2,7 +2,7 @@
   <div class="container">
     <div class="row">
       <div class="col-md-12">
-        <a href="#" class="ignite-btn">Ignite Your Passion</a>
+        <a href="#" class="ignite-btn">Lorem Ipsum</a>
       </div>
     </div>
   </div>
